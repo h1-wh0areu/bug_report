@@ -26,3 +26,4 @@ Cookie: PHPSESSID=k7u4fodbeos6ie4oc0oa29u5qg
 Connection: close
 ```
 
+![image](https://github.com/user-attachments/assets/6a251f9b-75ec-40b5-8f02-e632686f1e61)
